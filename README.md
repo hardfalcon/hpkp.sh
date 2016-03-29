@@ -19,5 +19,6 @@ The script relies upon OpenSSL and should be POSIX compliant, thus hopefully bei
 ### Licensing
 
 hpkp.sh is (C) 2016 by Pascal Ernster.
+
 hpkp.sh is licensed under the GNU General Public License v3.0.
 
